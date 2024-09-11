@@ -1,0 +1,9 @@
+.text {
+    animation: typing 2s steps()
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+}
