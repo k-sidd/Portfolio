@@ -18,7 +18,7 @@ function App() {
 
 
     return <div >
-        <div style={{ backgroundImage: 'url("src/assets/sandbg.jpg")', backgroundSize: "", backgroundPosition: "center", backgroundRepeat: "repeat" }}>
+        <div style={{ backgroundImage: 'url("https://ibb.co/cQp9N8R")', backgroundSize: "", backgroundPosition: "center", backgroundRepeat: "repeat" }}>
           <div className='text-[#05B2DC] bg-gradient-to-b from-[#0f172ae9] from-50% to-[#0f172abc]'>
         <div className={`${showElement ? 'animate-fadeIn' : 'opacity-0'}`}>
                 <TopBar />
