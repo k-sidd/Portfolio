@@ -1,9 +1,9 @@
-.text {
-    animation: typing 2s steps()
+.typed-cursor {
+    background-color: #7aa0aa;
+    padding-right: 24.5px; /* Reduced by 30% */
+    margin-left: 5px;
 }
 
-@keyframes typing {
-    from {
-        width: 0
-    }
+body {
+    background-color: #0B1427;
 }
