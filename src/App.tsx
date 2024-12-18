@@ -82,9 +82,6 @@ function App() {
                                 <div className='flex justify-center mt-4 text-lg font-roboto font-semibold text-[#7aa0aa]'>
                                     I make functional and user-friendly websites and web applications
                                 </div>
-                                <div>
-                                    {/* <span ref={el} /> */}
-                                </div>
                                 <div className='flex justify-center m-7 text-4xl text-[#7aa0aa] font-semibold uppercase font-roboto'>
                                     Familiar with:
                                 </div>
