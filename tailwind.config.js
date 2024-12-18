@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        main: ["Eurostile"],
+        main: ["Rajdhani"],
         roboto: ["Roboto"]
       },
       colors: {
